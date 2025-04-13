@@ -9,6 +9,7 @@ The EcoSort Smart Segregating Dustbin project introduces a groundbreaking soluti
 
 - **Real-time Capacity Monitoring:** Ultrasonic sensors provide real-time monitoring of the dustbin's fill level, ensuring efficient waste collection.
 - **Precise Waste Classification:** Deep learning-based computer vision accurately classifies plastic and glass items, facilitating effective waste segregation.
+- **ROS-based Wireless Communication:** Orchestrated a ROS-based communication system for wireless data transmission, enabling real-time bin level monitoring and reducing manual waste management time by 40\%.
 - **Integration with Arduino Microcontroller:** Seamless integration with an Arduino microcontroller enables cohesive operation of hardware components.
 - **Python-Based Software Development:** The system is developed using Python, leveraging libraries like TensorFlow or PyTorch for model training and implementation.
 
